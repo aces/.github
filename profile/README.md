@@ -4,7 +4,7 @@
 
 * This is the ACElab, the laboratory of Dr Alan C. Evans, at McGill University.
 
-* Ceci est l'organisation pour le laboratoire de Alan C. Evans, à l'Université McGill.
+* Ceci est l'organisation pour le laboratoire du Dr Alan C. Evans, à l'Université McGill.
 
 ### About / À propos
 
